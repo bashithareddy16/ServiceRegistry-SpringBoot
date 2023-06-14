@@ -2,7 +2,7 @@
 Configuration
 
 Server
- port: 
+ port: 8761
  
 The Service Registry Layer is crucial for initializing the components of the Payment Service, Product Service, and Order Service. It ensures seamless communication between these services and the Eureka server.
 
